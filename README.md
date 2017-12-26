@@ -1,3 +1,6 @@
+## {DEPRECATED: This repository has been moved and evolved into [Stopify](https://github.com/plasma-umass/stopify)}
+
+
 ### Building and Testing
 ----------------
 #### Dependencies
